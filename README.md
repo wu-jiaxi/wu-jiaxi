@@ -44,6 +44,8 @@ fabulously dynamic ❤️-->
 
 :star: from [wu-jiaxi](https://github.com/wu-jiaxi)
 
-<a href="https://github.com/jain-mukesh/jain-mukesh/actions"><img src="https://github.com/jain-mukesh/jain-mukesh/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+### My GitHub Stats
+
+![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
 
 ⭐️ From [Mukesh Jain](https://github.com/jain-mukesh)
