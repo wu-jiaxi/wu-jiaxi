@@ -46,6 +46,6 @@ fabulously dynamic ❤️-->
 
 ### My GitHub Stats
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
+![Jiaxi's github stats](https://github-readme-stats.vercel.app/api?username=wu-jiaxi&show_icons=true)
 
 ⭐️ From [Mukesh Jain](https://github.com/jain-mukesh)
