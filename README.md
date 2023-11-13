@@ -42,5 +42,5 @@ These are my social profile links/icons
 the GitHub profile readme stats/workflows to make my profile look
 fabulously dynamic ❤️-->
 
-:star: from [hedythedev](https://github.com/wu-jiaxi)
+:star: from [wu-jiaxi](https://github.com/wu-jiaxi)
 
