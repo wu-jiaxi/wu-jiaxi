@@ -23,7 +23,7 @@ These are my social profile links/icons
 
 <br/>
 
-- 🔭 I’m currently working on  **[a reddit clone](https://github.com/hedythedev/starcli)**
+- 🔭 I’m currently working on  **[a reddit clone](https://github.com/wu-jiaxi/reddit-clone)**
 - 📫 How to reach me (use one of the following ways):
    1. **[twitter @jiaxiwu](https://twitter.com/jiaxiwu) (recommended)**
    2. **[linkedin](https://www.linkedin.com/in/jiaxiwu/) (if you don't have twitter)**
