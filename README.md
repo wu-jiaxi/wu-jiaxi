@@ -47,11 +47,4 @@ fabulously dynamic ❤️-->
 ### My GitHub Stats
 
 ![Jiaxi's github stats](https://github-readme-stats.vercel.app/api?username=wu-jiaxi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact)
-
-⭐️ From [Mukesh Jain](https://github.com/jain-mukesh)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact)
-
-:star: From [laxminagln](https://github.com/laxminagln)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wu-jiaxi&layout=compact)
